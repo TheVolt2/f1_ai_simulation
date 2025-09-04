@@ -26,15 +26,9 @@ The project consists of several key components:
 * Python 3.x
 * `tkinter` (usually included with Python)
 
-### Installation
+### Starting
 
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/neural-race-simulation.git](https://github.com/YOUR_USERNAME/neural-race-simulation.git)
-    cd neural-race-simulation
-    ```
-
-2.  Run the simulation:
+1.  Run the simulation:
     ```bash
     python main.py
     ```
