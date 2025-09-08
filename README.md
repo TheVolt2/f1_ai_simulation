@@ -48,7 +48,7 @@ The GUI will pop up and the simulation will begin. Once the race is over, the le
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/TheVolt2/f1_ai_simulation/issues).
 
 ## 📄 License
 
