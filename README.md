@@ -46,10 +46,6 @@ The GUI will pop up and the simulation will begin. Once the race is over, the le
 * `peremennue.py`: Variables for tire wear and weather penalties.
 * `leaderboard.json`: The data file for the Hall of Fame.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/TheVolt2/f1_ai_simulation/issues).
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
